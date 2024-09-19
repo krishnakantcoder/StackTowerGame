@@ -1,2 +1,2 @@
 # StackTowerGame
-This project is created by using HTML ,CSS and JAVASCRIPT.
+This project is created by using HTML ,CSS and JavaScript.
